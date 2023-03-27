@@ -1,4 +1,5 @@
 .rootElement {
   display: flex;
   justify-content: space-around;
+  max-height: 90vh;
 }
