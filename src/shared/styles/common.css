@@ -1,0 +1,20 @@
+.container {
+	width: 90vw;
+	max-width: var(--fixed-width);
+	background: var(--clr-white);
+	border-radius: var(--radius);
+	padding: 1.5rem 2rem;
+	box-shadow: var(--dark-shadow);
+    max-height: 90vw;
+    overflow-y: scroll;
+}
+.container h3 {
+	font-weight: normal;
+	text-transform: none;
+	margin-bottom: 2rem;
+}
+.section {
+	width: 90vw;
+	margin: 0 auto;
+	max-width: var(--max-width);
+}
